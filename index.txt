@@ -1,1 +1,2 @@
 Hello Git
+This project demonstrates Git commands
